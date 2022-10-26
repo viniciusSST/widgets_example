@@ -19,7 +19,7 @@ class _ThemeAnimationPageCopyState extends State<ThemeAnimationPageCopy> {
       return Scaffold(
         appBar: AppBar(
           backgroundColor: Colors.green,
-          title: const Text("TestPage2"),
+          title: const Text("TestPage"),
           centerTitle: true,
           leading: IconButton(
             icon: const Icon(Icons.menu),
